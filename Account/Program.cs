@@ -42,6 +42,7 @@ namespace Account
             Console.WriteLine("Thong tin tai khoan 2:[ID: {0}, Name: {1}, Balance: {2}] "
                 , account2.getID(), account2.getName(), account2.getBlance());
             Console.ReadLine();
+            asdajskdadkjas
             
 
         }
